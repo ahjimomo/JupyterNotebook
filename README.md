@@ -1,7 +1,4 @@
-# Jupyter Notebook
-Personal smaller projects work on Jupyter Notebook
+# Visual Cloning - Seaborn Library
+Personal project on cloning visualisation with Python & the Seaborn library. 
 
-These implementations are for sharing and learning purposes. Some of these projects are obtained from online sources, credited to owners.
-
-# Directory
-
+Some of the provided materials for this projects are obtained from online sources, credited to owners.
